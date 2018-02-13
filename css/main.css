@@ -3,8 +3,9 @@ body {
     padding-top: 50px;
     width: 70%;
 }
-nav {
+navbar-default {
     background-color: #02CF80;
+    border-color: #02CF80;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -38,7 +39,8 @@ footer {
 }
 
 .container {
-    margin-top: -5px;
+    margin-top: 5px;
+    color: #666;
 }
 
 #applinks {
