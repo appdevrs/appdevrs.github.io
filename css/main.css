@@ -21,11 +21,9 @@ nav li a {
     text-decoration: none;
     color: #666;
 }
-.active {
-    background-color: #000 !important;
-}
 .active a {
     color: #666 !important;
+    background-color: #FFF !important;
 }
 a:hover {
     text-decoration: underline;
