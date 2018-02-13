@@ -46,7 +46,10 @@ footer {
 .container {
     margin-top: 5px;
 }
-
+.logo {
+    width: 100px;
+    float: left;
+}
 #applinks {
     width: 100%;
   }
