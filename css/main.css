@@ -4,7 +4,7 @@ body {
     width: 70%;
     color: #666;
 }
-nav .navtitle li {
+nav .navtitle {
     width: 100px;
     color: #FFF;
     float: left !important;
