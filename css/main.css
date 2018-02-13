@@ -2,6 +2,7 @@ body {
     margin: auto !important;
     padding-top: 50px;
     width: 70%;
+    color: #666;
 }
 .navbar-default {
     background-color: #02CF80 !important;
