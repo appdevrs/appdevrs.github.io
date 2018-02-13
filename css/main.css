@@ -4,8 +4,8 @@ body {
     width: 70%;
 }
 .navbar-default {
-    background-color: #02CF80;
-    border-color: #02CF80;
+    background-color: #02CF80 !important;
+    border-color: #02CF80 !important;
 }
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -21,11 +21,11 @@ nav li a {
     text-decoration: none;
     color: #666;
 }
-nav li .active {
-    background-color: #000;
+.active {
+    background-color: #000 !important;
 }
-nav li .active a {
-    color: #666
+.active a {
+    color: #666 !important;
 }
 a:hover {
     text-decoration: underline;
