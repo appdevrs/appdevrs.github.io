@@ -6,8 +6,11 @@ body {
 }
 nav .navtitle {
     width: 100px;
-    color: #FFF;
+    margin-top: 10px;
     float: left !important;
+}
+nav .navtitle a strong {
+    color: #FFF;
 }
 .navbar-default {
     background-color: #02CF80 !important;
