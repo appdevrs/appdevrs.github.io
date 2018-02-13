@@ -4,6 +4,10 @@ body {
     width: 70%;
     color: #666;
 }
+.logo {
+    color: #FFF;
+    width: 100px;
+}
 .navbar-default {
     background-color: #02CF80 !important;
     border-color: #02CF80 !important;
@@ -44,10 +48,6 @@ footer {
 }
 .container {
     margin-top: 5px;
-}
-#logo {
-    color: #FFF;
-    width: 100px;
 }
 #applinks {
     width: 100%;
