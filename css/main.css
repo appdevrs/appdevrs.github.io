@@ -4,9 +4,8 @@ body {
     width: 70%;
     color: #666;
 }
-.logo li {
+.logo li a {
     color: #FFF;
-    width: 100px;
 }
 .navbar-default {
     background-color: #02CF80 !important;
@@ -31,7 +30,7 @@ nav li a {
     background-color: #FFF !important;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 h1 {
     font-size: 3em;
@@ -75,24 +74,6 @@ footer {
   #appstore-widget {
     width: 250px;
     margin: auto;
-  }
-  nav.navbar.navbar-custom.navbar-fixed-top.navbar-transparent {
-    background-color: transparent;
-  }
-  nav.navbar.navbar-custom.navbar-fixed-top {
-    background-color: #02CF80;
-  }
-  .slidebg.slide-zoom.bg-dark-30::before {
-    background-color: #02CF80;
-  }
-  .module.module-header.bg-dark.bg-dark-50::before {
-    background-color: #02CF80;
-  }
-  #mainContent {
-    background-color: #ffffff !important;
-  }
-  .dropdown-menu li {
-    background-color: #ffffff;
   }
   .apppic {
     width: 30px;
