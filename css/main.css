@@ -9,7 +9,7 @@ nav .navtitle {
     margin-top: 10px;
     float: left !important;
 }
-nav .navtitle a strong {
+nav .navtitle li a {
     color: #FFF;
 }
 .navbar-default {
