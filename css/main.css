@@ -1,5 +1,6 @@
 body {
     margin: 60px auto;
+    padding-top: 50px;
     width: 70%;
 }
 nav ul, footer ul {
@@ -31,6 +32,10 @@ p {
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+}
+
+.container {
+    align: center;
 }
 
 #applinks {
