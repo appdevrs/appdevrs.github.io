@@ -4,8 +4,10 @@ body {
     width: 70%;
     color: #666;
 }
-.navtitle li a {
+nav .navtitle li {
+    width: 100px;
     color: #FFF;
+    float: left !important;
 }
 .navbar-default {
     background-color: #02CF80 !important;
