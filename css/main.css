@@ -47,9 +47,10 @@ p {
     color: #333;
 }
 footer {
+    position: absolute;
     width: 100%;
-    top: 100%;
-    transform: translateY(-100%);
+    bottom: 0;
+    overflow: hidden;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
