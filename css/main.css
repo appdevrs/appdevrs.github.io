@@ -10,6 +10,11 @@ body {
     color: #666;
     padding-bottom: 50px;
 }
+hr {
+    color: #666;
+    border-color: #666;
+    background-color: #666
+}
 nav .navtitle {
     width: 100px;
     margin-top: 10px;
