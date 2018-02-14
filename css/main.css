@@ -67,6 +67,9 @@ footer ul {
     margin: auto;
     width: 410px;
 }
+footer ul li {
+    display: inline;
+}
 footer ul li a {
     color: #FFF !important;
     font-size: 18px;
