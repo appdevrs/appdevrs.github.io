@@ -16,6 +16,7 @@ nav .navtitle {
 }
 nav .navtitle li a {
     color: #FFF;
+    font-size: 16px;
 }
 .navbar-default {
     background-color: #02CF80 !important;
@@ -62,9 +63,11 @@ footer {
     font-size: .8em;
 }
 footer ul {
-    margin-top: 12px;
     margin: auto;
     color: #FFF;
+}
+footer ul li a {
+    font-size: 14px;
 }
 .container {
     margin-top: 5px;
