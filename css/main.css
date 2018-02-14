@@ -1,6 +1,11 @@
 body {
     margin: auto !important;
     padding-top: 50px;
+    width: 100%;
+    color: #666;
+}
+.content {
+    margin: auto !important;
     width: 70%;
     color: #666;
 }
