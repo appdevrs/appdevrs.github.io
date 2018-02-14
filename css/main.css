@@ -8,6 +8,7 @@ body {
     margin: auto !important;
     width: 70%;
     color: #666;
+    padding-bottom: 50px;
 }
 nav .navtitle {
     width: 100px;
