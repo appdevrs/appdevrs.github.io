@@ -17,6 +17,7 @@ nav .navtitle {
 nav .navtitle li a {
     color: #FFF;
     font-size: 16px;
+    text-decoration: none;
 }
 .navbar-default {
     background-color: #02CF80 !important;
