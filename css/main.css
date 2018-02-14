@@ -11,9 +11,9 @@ body {
     padding-bottom: 50px;
 }
 hr {
-    color: #666;
-    border-color: #666;
-    background-color: #666
+    color: #666 !important;
+    border-color: #666 !important;
+    background-color: #666 !important;
 }
 nav .navtitle {
     width: 100px;
