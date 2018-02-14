@@ -86,42 +86,32 @@ footer ul li a span {
 }
 #applinks {
     width: 100%;
-  }
-  #applinks td {
+}
+#applinks td {
     width: 50%;
-  }
-  .applink img {
+}
+.applink img {
     max-width: 30%;
     height: auto;
-  }
-  .descr {
+}
+tr {
+    border-bottom: 1px solid #666;
+}
+.descr {
     font-size: 17px;
     width: 100%; 
-  }
-  .descr img {
+}
+.descr img {
     max-width: 100%;
     height: auto;
-  }
-  #twitter-box {
+}
+#twitter-box {
     width: 100%;
     height: 800px;
     margin: auto;
-  } 
-  #appstore-widget {
+} 
+#appstore-widget {
     width: 250px;
     margin: auto;
-  }
-  .apppic {
-    width: 30px;
-    height: 30px;
-    border: 1px solid #ffffff;
-  }
-  .dropdown-menu li a {
-    padding-top: 5px !important;
-    padding-right: 15px !important;
-    padding-left: 5px !important;
-    padding-bottom: 5px !important;
-  }
-  .apppic {
-    margin-right: 5px !important;
-  }
+}
+
