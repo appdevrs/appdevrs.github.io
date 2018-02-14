@@ -10,6 +10,10 @@ body {
     color: #666;
     padding-bottom: 50px;
 }
+.nolink {
+    pointer-events: none;
+    cursor: default;
+}
 hr {
     color: #666 !important;
     border-color: #666 !important;
