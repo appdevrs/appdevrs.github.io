@@ -74,6 +74,9 @@ footer ul li a {
     color: #FFF !important;
     font-size: 18px;
 }
+footer ul li a span {
+    margin-top: 11px;
+}
 .container {
     margin-top: 5px;
 }
