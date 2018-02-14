@@ -63,8 +63,9 @@ footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-footer ul li{
+footer ul {
     margin: auto;
+    width: 140px;
 }
 footer ul li a {
     color: #FFF !important;
