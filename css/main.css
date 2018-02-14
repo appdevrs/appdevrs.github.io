@@ -54,11 +54,17 @@ p {
 footer {
     position: fixed;
     width: 100%;
+    height: 40px;
     bottom: 0;
     overflow: hidden;
     background-color: #02CF80;
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
+}
+footer ul {
+    margin-top: 12px;
+    margin: auto;
+    color: #FFF;
 }
 .container {
     margin-top: 5px;
