@@ -65,7 +65,7 @@ footer {
 }
 footer ul {
     margin: auto;
-    width: 410px;
+    width: 420px;
 }
 footer ul li {
     display: inline;
@@ -81,7 +81,7 @@ footer ul li a span {
     margin-top: 5px;
 }
 #mt {
-    margin-left: 10px;
+    margin-left: 15px;
 }
 #applinks {
     width: 100%;
