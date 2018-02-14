@@ -23,7 +23,7 @@ nav .navtitle li a {
     background-color: #02CF80 !important;
     border-color: #02CF80 !important;
 }
-nav ul, footer ul {
+nav ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
     list-style: none;
