@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+    {
+      "appID": "selbach.ios.SK1LL-TP",
+      "paths": ["/sktp/*"]
+    }
+    ]
+  }
+}
