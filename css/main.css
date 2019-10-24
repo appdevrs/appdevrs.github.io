@@ -130,6 +130,10 @@ tr {
     height: 80px;
     margin: auto;
 }
+#appstore-widget a {
+    display: block;
+    margin: auto;
+}
 #policy {
     margin: auto;
 }
